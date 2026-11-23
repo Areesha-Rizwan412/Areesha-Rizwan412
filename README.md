@@ -6,13 +6,13 @@ I'm a BS Data Science graduate from PUCIT, University of the Punjab, moving into
 
 ## What I'm working on now
 
-- Claimed the **Freshdesk source connector** for **galaxy-io/filament** (tickets, contacts, companies, agents, groups, conversations) - building it as an HTTP connector with incremental reads
 - Learning data engineering in the open: REST APIs, incremental ingestion, and data modeling
+- Getting started in open source, focused on data engineering tools
 - Final-year project: **ReSearch Flow**, built with my university team
 
 ## Open-source contributions
 
-Just getting started. My first contribution is the Freshdesk source connector for Filament, and this section will grow as pull requests merge.
+Just getting started. This section will grow as pull requests merge.
 
 ## Technical skills
 
